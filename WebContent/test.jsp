@@ -15,8 +15,9 @@
 		var r=window.showModalDialog("index.html",window,windowprops);
 		o.value=r;
 	}
-	function v(str){
-	}
+/* 	function v(str){
+		alert(str);
+	} */
 </script>
 <body>
 	照片：
